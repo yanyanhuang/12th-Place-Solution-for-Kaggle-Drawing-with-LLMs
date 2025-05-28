@@ -1,10 +1,10 @@
-# 12-th Place Solution for Kaggle "Drawing with LLMs" Competition
+# 12th Place Solution for Kaggle "Drawing with LLMs" Competition
 
-This is the training code for Kaggle "[Drawing with LLMs](https://www.kaggle.com/competitions/drawing-with-llms/)" competition.
+This repository contains the training code for the Kaggle "[Drawing with LLMs](https://www.kaggle.com/competitions/drawing-with-llms/)" competition.
 
-The original solution can be find in [this discussion](https://www.kaggle.com/competitions/drawing-with-llms/discussion/581034).
+The original solution can be found in [this discussion](https://www.kaggle.com/competitions/drawing-with-llms/discussion/581034).
 
-This repo is based on the fantastic work: [Flow-GRPO](https://github.com/yifan123/flow_grpo).
+This repository is based on the fantastic work: [Flow-GRPO](https://github.com/yifan123/flow_grpo).
 
 ## Installation
 
