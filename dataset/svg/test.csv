@@ -1,0 +1,801 @@
+id,description,question,choices,answer
+d06388,a rusty robot in a wheat field,What is the setting?,"['city', 'desert', 'field', 'forest']",field
+d06388,a rusty robot in a wheat field,Is the robot made of gold?,"['no', 'yes']",no
+d06388,a rusty robot in a wheat field,What is the robot's condition?,"['new', 'rusty', 'shiny', 'clean']",rusty
+d06388,a rusty robot in a wheat field,What is the main subject of the image?,"['animal', 'building', 'robot', 'tree']",robot
+e4df5c,a serene koi pond at sunrise,What time of day is it?,"['day', 'dusk', 'night', 'sunrise']",sunrise
+e4df5c,a serene koi pond at sunrise,Is there any fish present?,"['no', 'yes']",yes
+e4df5c,a serene koi pond at sunrise,What kind of pond is it?,"['fish', 'koi', 'lotus', 'swimming']",koi
+e4df5c,a serene koi pond at sunrise,Is the scene serene?,"['no', 'yes']",yes
+c42171,a golden retriever wearing sunglasses on a beach,Is the dog wearing glasses?,"['no', 'yes']",yes
+c42171,a golden retriever wearing sunglasses on a beach,What type of animal is in the picture?,"['cat', 'dog', 'lion', 'rabbit']",dog
+c42171,a golden retriever wearing sunglasses on a beach,Is the dog on a beach?,"['no', 'yes']",yes
+c42171,a golden retriever wearing sunglasses on a beach,What breed of dog is shown?,"['bulldog', 'german shepard', 'golden retriever', 'poodle']",golden retriever
+46809e,an emerald pendant on a silver chain,What is the chain made of?,"['bronze', 'gold', 'silver', 'wood']",silver
+46809e,an emerald pendant on a silver chain,Is the pendant a ruby?,"['no', 'yes']",no
+46809e,an emerald pendant on a silver chain,What color is the pendant?,"['emerald', 'gold', 'ruby', 'silver']",emerald
+46809e,an emerald pendant on a silver chain,What kind of jewelry is shown?,"['bracelet', 'earrings', 'necklace', 'ring']",necklace
+b5c3d3,a sapphire ring on a velvet cushion,What kind of cushion is it?,"['feather', 'silk', 'velvet', 'wool']",velvet
+b5c3d3,a sapphire ring on a velvet cushion,Is it a ring or a bracelet?,"['bracelet', 'ring']",ring
+b5c3d3,a sapphire ring on a velvet cushion,Is the ring made of sapphire?,"['no', 'yes']",yes
+b5c3d3,a sapphire ring on a velvet cushion,Is the cushion made of cotton?,"['no', 'yes']",no
+512026,a ruby heart locket,Is the locket made of ruby?,"['no', 'yes']",yes
+512026,a ruby heart locket,What shape is the locket?,"['circle', 'heart', 'square', 'triangle']",heart
+512026,a ruby heart locket,Is the locket made of gold?,"['no', 'yes']",no
+512026,a ruby heart locket,What is the primary color of the locket?,"['blue', 'green', 'red', 'yellow']",red
+59ef0b,a smiling scarecrow in an autumn cornfield,Is the field snowy?,"['no', 'yes']",no
+59ef0b,a smiling scarecrow in an autumn cornfield,What season is depicted?,"['autumn', 'spring', 'summer', 'winter']",autumn
+59ef0b,a smiling scarecrow in an autumn cornfield,Is the scarecrow frowning?,"['no', 'yes']",no
+59ef0b,a smiling scarecrow in an autumn cornfield,What is in the field?,"['corn', 'hay', 'pumpkins', 'wheat']",corn
+54066f,a turquoise seashell on white sand,What color is the seashell?,"['brown', 'orange', 'turquoise', 'white']",turquoise
+54066f,a turquoise seashell on white sand,Is the sand black?,"['no', 'yes']",no
+54066f,a turquoise seashell on white sand,Where is the seashell located?,"['grass', 'ocean', 'sand', 'snow']",sand
+54066f,a turquoise seashell on white sand,What kind of object is the main subject?,"['animal', 'plant', 'seashell', 'stone']",seashell
+7dd612,a lunar eclipse over a city skyline,Is the eclipse solar?,"['no', 'yes']",no
+7dd612,a lunar eclipse over a city skyline,What is below the eclipse?,"['desert', 'forest', 'ocean', 'skyline']",skyline
+7dd612,a lunar eclipse over a city skyline,Is the event occurring at night?,"['no', 'yes']",yes
+7dd612,a lunar eclipse over a city skyline,What kind of celestial event is depicted?,"['comet', 'eclipse', 'meteor shower', 'supernova']",eclipse
+29377a,a bronze compass on a map of the world,Is the map of the world?,"['no', 'yes']",yes
+29377a,a bronze compass on a map of the world,What is the compass made of?,"['bronze', 'gold', 'plastic', 'silver']",bronze
+29377a,a bronze compass on a map of the world,Is the compass on a table?,"['no', 'yes']",no
+29377a,a bronze compass on a map of the world,What tool is shown in the image?,"['calculator', 'camera', 'compass', 'telescope']",compass
+861d2e,a serene blue lake under a clear sky,What color is the lake?,"['blue', 'green', 'red', 'yellow']",blue
+861d2e,a serene blue lake under a clear sky,Is the sky cloudy?,"['no', 'yes']",no
+861d2e,a serene blue lake under a clear sky,Is the lake located under the sky?,"['no', 'yes']",yes
+861d2e,a serene blue lake under a clear sky,What is above the lake?,"['ceiling', 'mountain', 'sky', 'trees']",sky
+79bed2,a rusty iron fence with a broken gate,What material is the fence made of?,"['aluminum', 'iron', 'plastic', 'wood']",iron
+79bed2,a rusty iron fence with a broken gate,Is the gate intact?,"['no', 'yes']",no
+79bed2,a rusty iron fence with a broken gate,Is the fence rusty?,"['no', 'yes']",yes
+79bed2,a rusty iron fence with a broken gate,Does the image depict a fence?,"['no', 'yes']",yes
+3977f4,an orange clay vase with a crack in the side,What material is the vase made of?,"['bronze', 'clay', 'glass', 'plastic']",clay
+3977f4,an orange clay vase with a crack in the side,Is the vase orange?,"['no', 'yes']",yes
+3977f4,an orange clay vase with a crack in the side,Does the vase have a crack?,"['no', 'yes']",yes
+3977f4,an orange clay vase with a crack in the side,Is the vase full of water?,"['no', 'yes']",no
+cfc70f,a sandy beach at sunset with palm trees,Are there palm trees present?,"['no', 'yes']",yes
+cfc70f,a sandy beach at sunset with palm trees,What time of day is it?,"['dawn', 'dusk', 'midday', 'noon']",dusk
+cfc70f,a sandy beach at sunset with palm trees,Is the setting a forest?,"['no', 'yes']",no
+cfc70f,a sandy beach at sunset with palm trees,Is the ground covered in sand?,"['no', 'yes']",yes
+d29a04,a bronze statue of a seated man,What is the statue made of?,"['bronze', 'gold', 'silver', 'stone']",bronze
+d29a04,a bronze statue of a seated man,Is the statue depicting a man?,"['no', 'yes']",yes
+d29a04,a bronze statue of a seated man,Is the man seated?,"['no', 'yes']",yes
+d29a04,a bronze statue of a seated man,Is the statue red?,"['no', 'yes']",no
+71f408,a tall green tree in a field of yellow flowers,What color are the flowers?,"['blue', 'green', 'red', 'yellow']",yellow
+71f408,a tall green tree in a field of yellow flowers,Is there a tree in the image?,"['no', 'yes']",yes
+71f408,a tall green tree in a field of yellow flowers,Is the tree short?,"['no', 'yes']",no
+71f408,a tall green tree in a field of yellow flowers,What color is the tree?,"['blue', 'green', 'orange', 'red']",green
+dd0226,a silver laptop on a dark wooden desk,What color is the laptop?,"['black', 'gold', 'silver', 'white']",silver
+dd0226,a silver laptop on a dark wooden desk,Is there a computer present?,"['no', 'yes']",yes
+dd0226,a silver laptop on a dark wooden desk,What is the desk made of?,"['metal', 'plastic', 'stone', 'wood']",wood
+dd0226,a silver laptop on a dark wooden desk,Is the desk white?,"['no', 'yes']",no
+9aad87,a fluffy white sheep in a green meadow,What color is the sheep?,"['black', 'brown', 'gray', 'white']",white
+9aad87,a fluffy white sheep in a green meadow,Is the meadow green?,"['no', 'yes']",yes
+9aad87,a fluffy white sheep in a green meadow,Is there a sheep in the image?,"['no', 'yes']",yes
+9aad87,a fluffy white sheep in a green meadow,What kind of animal is depicted?,"['cat', 'dog', 'sheep', 'wolf']",sheep
+1352c0,a red brick building with a blue door,What color is the building?,"['blue', 'green', 'red', 'white']",red
+1352c0,a red brick building with a blue door,What color is the door?,"['blue', 'green', 'red', 'white']",blue
+1352c0,a red brick building with a blue door,Is the building made of brick?,"['no', 'yes']",yes
+1352c0,a red brick building with a blue door,Is the door red?,"['no', 'yes']",no
+3244c1,a silver car driving on a black asphalt road,What color is the car?,"['black', 'blue', 'red', 'silver']",silver
+3244c1,a silver car driving on a black asphalt road,What is the road made of?,"['asphalt', 'brick', 'dirt', 'sand']",asphalt
+3244c1,a silver car driving on a black asphalt road,Is the car stationary?,"['no', 'yes']",no
+3244c1,a silver car driving on a black asphalt road,Is the car driving on a green grass field?,"['no', 'yes']",no
+dfe268,a golden retriever puppy in a field of sunflowers,What type of animal is in the image?,"['cat', 'dog', 'horse', 'rabbit']",dog
+dfe268,a golden retriever puppy in a field of sunflowers,What color is the dog?,"['black', 'brown', 'golden', 'white']",golden
+dfe268,a golden retriever puppy in a field of sunflowers,Where is the puppy located?,"['beach', 'desert', 'field', 'mountain']",field
+dfe268,a golden retriever puppy in a field of sunflowers,Are there sunflowers in the image?,"['no', 'yes']",yes
+c32811,a minimalist landscape with a single crimson tree,Is the landscape complex?,"['no', 'yes']",no
+c32811,a minimalist landscape with a single crimson tree,What color is the tree?,"['blue', 'crimson', 'green', 'yellow']",crimson
+c32811,a minimalist landscape with a single crimson tree,Is there a tree in the image?,"['no', 'yes']",yes
+c32811,a minimalist landscape with a single crimson tree,How many trees are there?,"['one', 'two', 'three', 'many']",one
+27d8f0,a futuristic cityscape at night with neon lights,Is the city depicted during the day?,"['no', 'yes']",no
+27d8f0,a futuristic cityscape at night with neon lights,Are there neon lights?,"['no', 'yes']",yes
+27d8f0,a futuristic cityscape at night with neon lights,Is the cityscape modern?,"['no', 'yes']",yes
+27d8f0,a futuristic cityscape at night with neon lights,What is the setting of the image?,"['beach', 'city', 'forest', 'mountain']",city
+6b325c,a plate of spaghetti with meatballs and tomato sauce,What kind of sauce is on the spaghetti?,"['alfredo', 'marinara', 'pesto', 'tomato']",tomato
+6b325c,a plate of spaghetti with meatballs and tomato sauce,Are there meatballs on the plate?,"['no', 'yes']",yes
+6b325c,a plate of spaghetti with meatballs and tomato sauce,Is the food served on a plate?,"['no', 'yes']",yes
+6b325c,a plate of spaghetti with meatballs and tomato sauce,What kind of food is in the image?,"['pizza', 'salad', 'steak', 'spaghetti']",spaghetti
+067612,a serene lake reflecting snow-capped mountains,Are mountains visible in the image?,"['no', 'yes']",yes
+067612,a serene lake reflecting snow-capped mountains,What is reflecting in the water?,"['buildings', 'clouds', 'mountains', 'trees']",mountains
+067612,a serene lake reflecting snow-capped mountains,Is the lake located near a desert?,"['no', 'yes']",no
+067612,a serene lake reflecting snow-capped mountains,Are the mountains snow-capped?,"['no', 'yes']",yes
+02f133,a vintage bicycle leaning against a brick wall,Is the bicycle old-fashioned?,"['no', 'yes']",yes
+02f133,a vintage bicycle leaning against a brick wall,Is the bicycle leaning against a fence?,"['no', 'yes']",no
+02f133,a vintage bicycle leaning against a brick wall,What is the bicycle leaning against?,"['a brick wall', 'a car', 'a tree', 'the sky']",a brick wall
+02f133,a vintage bicycle leaning against a brick wall,Is the wall made of brick?,"['no', 'yes']",yes
+e8ddc4,a fluffy white cat sleeping on a windowsill,What color is the cat?,"['black', 'orange', 'white', 'yellow']",white
+e8ddc4,a fluffy white cat sleeping on a windowsill,Is the cat awake?,"['no', 'yes']",no
+e8ddc4,a fluffy white cat sleeping on a windowsill,Where is the cat sleeping?,"['bed', 'floor', 'sofa', 'windowsill']",windowsill
+e8ddc4,a fluffy white cat sleeping on a windowsill,What type of animal is depicted?,"['cat', 'dog', 'hamster', 'rabbit']",cat
+cde409,a stack of colorful books with a pair of glasses on top,Are there any glasses in the image?,"['no', 'yes']",yes
+cde409,a stack of colorful books with a pair of glasses on top,Are the books black and white?,"['no', 'yes']",no
+cde409,a stack of colorful books with a pair of glasses on top,What object is on top of the books?,"['a cup', 'a hat', 'a pair of glasses', 'a toy']",a pair of glasses
+cde409,a stack of colorful books with a pair of glasses on top,Are there books in the image?,"['no', 'yes']",yes
+40df11,a hot air balloon floating over a field of lavender,Is there a body of water in the image?,"['no', 'yes']",no
+40df11,a hot air balloon floating over a field of lavender,What color is the field?,"['blue', 'green', 'lavender', 'yellow']",lavender
+40df11,a hot air balloon floating over a field of lavender,Is there a balloon in the image?,"['no', 'yes']",yes
+40df11,a hot air balloon floating over a field of lavender,What type of flower is mentioned in the description?,"['daisy', 'lavender', 'rose', 'sunflower']",lavender
+9f46d7,a cup of coffee with latte art in the shape of a heart,Is the coffee served in a cup?,"['no', 'yes']",yes
+9f46d7,a cup of coffee with latte art in the shape of a heart,What shape is the latte art?,"['circle', 'heart', 'square', 'triangle']",heart
+9f46d7,a cup of coffee with latte art in the shape of a heart,Is the coffee cold?,"['no', 'yes']",no
+9f46d7,a cup of coffee with latte art in the shape of a heart,Is there latte art in the coffee?,"['no', 'yes']",yes
+7b732f,a glass of pink lemonade,Is the drink fizzy?,"['no', 'yes']",no
+7b732f,a glass of pink lemonade,What color is the drink?,"['blue', 'orange', 'pink', 'white']",pink
+7b732f,a glass of pink lemonade,Is the drink alcoholic?,"['no', 'yes']",no
+7b732f,a glass of pink lemonade,What kind of drink is depicted?,"['cola', 'juice', 'lemonade', 'milk']",lemonade
+b1c0c1,a dilapidated brick house,Is the house in good condition?,"['no', 'yes']",no
+b1c0c1,a dilapidated brick house,Is the house made of wood?,"['no', 'yes']",no
+b1c0c1,a dilapidated brick house,Is the house made of brick?,"['no', 'yes']",yes
+b1c0c1,a dilapidated brick house,What material is the house made of?,"['brick', 'concrete', 'stone', 'wood']",brick
+e5fe7c,a giant emerald,Is the item small?,"['no', 'yes']",no
+e5fe7c,a giant emerald,What is the item made of?,"['diamond', 'emerald', 'gold', 'ruby']",emerald
+e5fe7c,a giant emerald,Is the item shiny?,"['no', 'yes']",yes
+e5fe7c,a giant emerald,What color is the object?,"['blue', 'green', 'red', 'yellow']",green
+e9a3e7,a futuristic silver motorcycle,What color is the motorcycle?,"['black', 'orange', 'silver', 'yellow']",silver
+e9a3e7,a futuristic silver motorcycle,Is the motorcycle old?,"['no', 'yes']",no
+e9a3e7,a futuristic silver motorcycle,Is the motorcycle made for the past?,"['no', 'yes']",no
+e9a3e7,a futuristic silver motorcycle,What kind of vehicle is shown?,"['bicycle', 'car', 'motorcycle', 'scooter']",motorcycle
+01aa14,an old wooden ship,Is the ship new?,"['no', 'yes']",no
+01aa14,an old wooden ship,Is the ship constructed of metal?,"['no', 'yes']",no
+01aa14,an old wooden ship,What is the ship made of?,"['brick', 'concrete', 'steel', 'wood']",wood
+01aa14,an old wooden ship,What is depicted in the image?,"['airplane', 'bike', 'scooter', 'ship']",ship
+3c8593,golden earrings and a sapphire pendant,Are the earrings depicted as silver?,"['no', 'yes']",no
+3c8593,golden earrings and a sapphire pendant,Is there a pendant in the image?,"['no', 'yes']",yes
+3c8593,golden earrings and a sapphire pendant,Are the earrings gold?,"['no', 'yes']",yes
+3c8593,golden earrings and a sapphire pendant,What is the color of the pendant?,"['gold', 'red', 'sapphire', 'silver']",sapphire
+f78845,iridescent bubbles floating in space,Are the bubbles in the water?,"['no', 'yes']",no
+f78845,iridescent bubbles floating in space,Are the bubbles iridescent?,"['no', 'yes']",yes
+f78845,iridescent bubbles floating in space,Are the bubbles solid?,"['no', 'yes']",no
+f78845,iridescent bubbles floating in space,Where are the bubbles floating?,"['air', 'space', 'water', 'wind']",space
+e9797a,lime green sequins forming a spherical pattern,Are there sequins?,"['no', 'yes']",yes
+e9797a,lime green sequins forming a spherical pattern,Are the sequins purple?,"['no', 'yes']",no
+e9797a,lime green sequins forming a spherical pattern,Is the pattern on the item squared?,"['no', 'yes']",no
+e9797a,lime green sequins forming a spherical pattern,What color are the sequins?,"['green', 'orange', 'purple', 'white']",green
+552bc7,a ruby ring,Is the ring silver?,"['no', 'yes']",no
+552bc7,a ruby ring,What gemstone is set in the ring?,"['diamond', 'emerald', 'ruby', 'sapphire']",ruby
+552bc7,a ruby ring,Is the depicted item wearable?,"['no', 'yes']",yes
+552bc7,a ruby ring,Is the item metallic?,"['no', 'yes']",yes
+16fc45,turquoise crystals and amber beads,Are the crystals amber colored?,"['no', 'yes']",no
+16fc45,turquoise crystals and amber beads,Are the beads turquoise colored?,"['no', 'yes']",no
+16fc45,turquoise crystals and amber beads,What is one of the colors mentioned in the description?,"['amber', 'magenta', 'purple', 'silver']",amber
+16fc45,turquoise crystals and amber beads,What are the beads made of?,"['amber', 'crystal', 'diamond', 'emerald']",amber
+aa1a3b,a cyan cube hovering over a magenta plane,Is the cube cyan?,"['no', 'yes']",yes
+aa1a3b,a cyan cube hovering over a magenta plane,Is the plane blue?,"['no', 'yes']",no
+aa1a3b,a cyan cube hovering over a magenta plane,What shape is hovering?,"['circle', 'cube', 'pyramid', 'sphere']",cube
+aa1a3b,a cyan cube hovering over a magenta plane,What color is the plane?,"['cyan', 'magenta', 'orange', 'teal']",magenta
+e61662,Chartreuse spheres and indigo stars,Is the background white?,"['no', 'yes']",no
+e61662,Chartreuse spheres and indigo stars,What shape are the indigo objects?,"['circles', 'crescents', 'squares', 'stars']",stars
+e61662,Chartreuse spheres and indigo stars,What color are the spheres?,"['chartreuse', 'indigo', 'magenta', 'orange']",chartreuse
+e61662,Chartreuse spheres and indigo stars,Are any of the objects crescent-shaped?,"['no', 'yes']",no
+3510d6,a scarlet spiral on top of an azure disk,Is the spiral scarlet?,"['no', 'yes']",yes
+3510d6,a scarlet spiral on top of an azure disk,Is the disk azure?,"['no', 'yes']",yes
+3510d6,a scarlet spiral on top of an azure disk,What shape is the base?,"['circle', 'cube', 'rectangle', 'spiral']",circle
+3510d6,a scarlet spiral on top of an azure disk,What shape is on top of the disk?,"['circle', 'cube', 'square', 'spiral']",spiral
+4a8087,a sepia photograph of a windswept tree,Is the photograph in color?,"['no', 'yes']",no
+4a8087,a sepia photograph of a windswept tree,Is the tree being affected by wind?,"['no', 'yes']",yes
+4a8087,a sepia photograph of a windswept tree,What style is the image?,"['painting', 'photograph', 'sketch', 'watercolor']",photograph
+4a8087,a sepia photograph of a windswept tree,What color tone is the photograph?,"['azure', 'sepia', 'teal', 'white']",sepia
+8bf18d,fuchsia pentagons floating in lime fog,What are floating in the fog?,"['circles', 'hexagons', 'pentagons', 'squares']",pentagons
+8bf18d,fuchsia pentagons floating in lime fog,Is the fog lime colored?,"['no', 'yes']",yes
+8bf18d,fuchsia pentagons floating in lime fog,Is the image set in fog?,"['no', 'yes']",yes
+8bf18d,fuchsia pentagons floating in lime fog,What shape are the fuchsia objects?,"['circles', 'hexagons', 'pentagons', 'squares']",pentagons
+f4c709,a teal crescent resting on a beige cube,Is the cube beige?,"['no', 'yes']",yes
+f4c709,a teal crescent resting on a beige cube,What shape is resting on the cube?,"['circle', 'cone', 'crescent', 'square']",crescent
+f4c709,a teal crescent resting on a beige cube,What shape is the base?,"['circle', 'cube', 'sphere', 'triangle']",cube
+f4c709,a teal crescent resting on a beige cube,Is the crescent teal?,"['no', 'yes']",yes
+ac3794,a chartreuse triangle surrounded by silver stars,Is the triangle chartreuse?,"['no', 'yes']",yes
+ac3794,a chartreuse triangle surrounded by silver stars,Are the stars gold?,"['no', 'yes']",no
+ac3794,a chartreuse triangle surrounded by silver stars,What surrounds the triangle?,"['circles', 'squares', 'stars', 'triangles']",stars
+ac3794,a chartreuse triangle surrounded by silver stars,What shape is chartreuse?,"['circle', 'square', 'star', 'triangle']",triangle
+bf810d,a maroon boat on a turquoise lake,What color is the boat?,"['maroon', 'orange', 'purple', 'teal']",maroon
+bf810d,a maroon boat on a turquoise lake,Is the body of water a lake?,"['no', 'yes']",yes
+bf810d,a maroon boat on a turquoise lake,What color is the lake?,"['blue', 'maroon', 'teal', 'turquoise']",turquoise
+bf810d,a maroon boat on a turquoise lake,Is the boat on land?,"['no', 'yes']",no
+3683aa,a light salmon colored flower on a dark slate background,Is the flower salmon colored?,"['no', 'yes']",yes
+3683aa,a light salmon colored flower on a dark slate background,Is the background light?,"['no', 'yes']",no
+3683aa,a light salmon colored flower on a dark slate background,What is in the foreground?,"['flower', 'mountain', 'ocean', 'sky']",flower
+3683aa,a light salmon colored flower on a dark slate background,What is the background made of?,"['linen', 'paper', 'slate', 'steel']",slate
+5914e1,a beige cylinder sitting on a lime green sheet,Is the cylinder beige?,"['no', 'yes']",yes
+5914e1,a beige cylinder sitting on a lime green sheet,Is the sheet black?,"['no', 'yes']",no
+5914e1,a beige cylinder sitting on a lime green sheet,What shape is the base?,"['circle', 'cylinder', 'rectangle', 'square']",rectangle
+5914e1,a beige cylinder sitting on a lime green sheet,What color is the sheet?,"['beige', 'green', 'lime', 'silver']",lime
+42b186,a clockwork beetle with emerald eyes,Is the beetle mechanical?,"['no', 'yes']",yes
+42b186,a clockwork beetle with emerald eyes,What color are the beetle's eyes?,"['blue', 'emerald', 'red', 'yellow']",emerald
+42b186,a clockwork beetle with emerald eyes,Is the beetle made of wood?,"['no', 'yes']",no
+42b186,a clockwork beetle with emerald eyes,Is the image about a living beetle?,"['no', 'yes']",no
+986b8f,an azure balloon shaped like a swan,Is the swan-shaped object a balloon?,"['no', 'yes']",yes
+986b8f,an azure balloon shaped like a swan,Is the balloon swan-shaped?,"['no', 'yes']",yes
+986b8f,an azure balloon shaped like a swan,What animal is the balloon shaped like?,"['beetle', 'cat', 'swan', 'turtle']",swan
+986b8f,an azure balloon shaped like a swan,What color is the balloon?,"['azure', 'khaki', 'maroon', 'silver']",azure
+dced63,a quaint cottage nestled among lilac trees,Are the trees lilac in color?,"['no', 'yes']",yes
+dced63,a quaint cottage nestled among lilac trees,Is the cottage modern?,"['no', 'yes']",no
+dced63,a quaint cottage nestled among lilac trees,What kind of building is featured?,"['castle', 'church', 'cottage', 'skyscraper']",cottage
+dced63,a quaint cottage nestled among lilac trees,Are there trees in the image?,"['no', 'yes']",yes
+11c1e2,a minimalist drawing of a persimmon,Is the drawing complex and detailed?,"['no', 'yes']",no
+11c1e2,a minimalist drawing of a persimmon,What fruit is depicted?,"['apple', 'orange', 'persimmon', 'strawberry']",persimmon
+11c1e2,a minimalist drawing of a persimmon,Is the persimmon real?,"['no', 'yes']",no
+11c1e2,a minimalist drawing of a persimmon,Is the image colorful?,"['no', 'yes']",no
+67c02b,a scarlet macaw perched on a branch of a willow tree,What color is the macaw?,"['black', 'green', 'scarlet', 'white']",scarlet
+67c02b,a scarlet macaw perched on a branch of a willow tree,What type of tree is depicted?,"['oak', 'pine', 'willow', 'birch']",willow
+67c02b,a scarlet macaw perched on a branch of a willow tree,Is the macaw flying?,"['no', 'yes']",no
+67c02b,a scarlet macaw perched on a branch of a willow tree,Is the bird a parrot?,"['no', 'yes']",yes
+32bee2,a cobalt teapot and saffron teacups,What color is the teapot?,"['cobalt', 'green', 'saffron', 'teal']",cobalt
+32bee2,a cobalt teapot and saffron teacups,What are the teacups filled with?,"['coffee', 'juice', 'soup', 'tea']",tea
+32bee2,a cobalt teapot and saffron teacups,What color are the teacups?,"['azure', 'cobalt', 'ivory', 'saffron']",saffron
+32bee2,a cobalt teapot and saffron teacups,Are there any cups in the image?,"['no', 'yes']",yes
+5ca407,a chartreuse frog wearing a top hat,Is the frog wearing any clothing?,"['no', 'yes']",yes
+5ca407,a chartreuse frog wearing a top hat,What color is the frog?,"['chartreuse', 'magenta', 'maroon', 'silver']",chartreuse
+5ca407,a chartreuse frog wearing a top hat,What kind of hat is the frog wearing?,"['baseball cap', 'beanie', 'fedora', 'top hat']",top hat
+5ca407,a chartreuse frog wearing a top hat,Is the animal a cat?,"['no', 'yes']",no
+ba17da,a tangerine sunset over the savanna,Is the setting a savanna?,"['no', 'yes']",yes
+ba17da,a tangerine sunset over the savanna,What time of day is depicted?,"['dawn', 'dusk', 'midday', 'noon']",dusk
+ba17da,a tangerine sunset over the savanna,What color is the sunset?,"['aquamarine', 'ivory', 'magenta', 'tangerine']",tangerine
+ba17da,a tangerine sunset over the savanna,Is the sun rising?,"['no', 'yes']",no
+ecd1b6,a crimson rose with thorns,Is the rose thornless?,"['no', 'yes']",no
+ecd1b6,a crimson rose with thorns,What color is the rose?,"['crimson', 'khaki', 'magenta', 'saffron']",crimson
+ecd1b6,a crimson rose with thorns,Is the rose a tulip?,"['no', 'yes']",no
+ecd1b6,a crimson rose with thorns,Is the image about a rose?,"['no', 'yes']",yes
+7bff12,a sepia photograph of a zeppelin,Is there a blimp in the image?,"['no', 'yes']",yes
+7bff12,a sepia photograph of a zeppelin,What color is the photograph?,"['black and white', 'blue', 'green', 'sepia']",sepia
+7bff12,a sepia photograph of a zeppelin,Is the photograph recent?,"['no', 'yes']",no
+7bff12,a sepia photograph of a zeppelin,Is the zeppelin flying?,"['no', 'yes']",yes
+35c7ff,a serene lake reflecting a lavender sunset,Is the sunset depicted as lavender?,"['no', 'yes']",yes
+35c7ff,a serene lake reflecting a lavender sunset,Is the water still?,"['no', 'yes']",yes
+35c7ff,a serene lake reflecting a lavender sunset,What is reflecting in the lake?,"['clouds', 'mountains', 'stars', 'the sunset']",the sunset
+35c7ff,a serene lake reflecting a lavender sunset,What time of day is depicted?,"['dawn', 'dusk', 'midday', 'noon']",dusk
+c639ff,fuchsia polka dots on an amber background,Are the dots fuchsia colored?,"['no', 'yes']",yes
+c639ff,fuchsia polka dots on an amber background,What shape are the fuchsia shapes?,"['circles', 'squares', 'stars', 'triangles']",circles
+c639ff,fuchsia polka dots on an amber background,Is the background amber?,"['no', 'yes']",yes
+c639ff,fuchsia polka dots on an amber background,Is the background blue?,"['no', 'yes']",no
+f8438b,a jade pendant carved in the shape of a koi fish,What animal is the pendant shaped like?,"['cat', 'dog', 'koi fish', 'rabbit']",koi fish
+f8438b,a jade pendant carved in the shape of a koi fish,What material is the pendant made of?,"['bronze', 'gold', 'jade', 'silver']",jade
+f8438b,a jade pendant carved in the shape of a koi fish,Is the pendant carved?,"['no', 'yes']",yes
+f8438b,a jade pendant carved in the shape of a koi fish,Is the pendant glass?,"['no', 'yes']",no
+d99eb6,a golden retriever puppy playing in a field of daffodils,Is the puppy a golden retriever?,"['no', 'yes']",yes
+d99eb6,a golden retriever puppy playing in a field of daffodils,Are there any flowers in the image?,"['no', 'yes']",yes
+d99eb6,a golden retriever puppy playing in a field of daffodils,What kind of animal is in the image?,"['cat', 'dog', 'hamster', 'rabbit']",dog
+d99eb6,a golden retriever puppy playing in a field of daffodils,Is the field made of snow?,"['no', 'yes']",no
+5d1448,cerulean brushstrokes forming an abstract wave,Are the brushstrokes blue?,"['no', 'yes']",yes
+5d1448,cerulean brushstrokes forming an abstract wave,Are the brushstrokes arranged to look like a wave?,"['no', 'yes']",yes
+5d1448,cerulean brushstrokes forming an abstract wave,Are the brushstrokes arranged to look like spirals?,"['no', 'yes']",no
+5d1448,cerulean brushstrokes forming an abstract wave,Do the brushstrokes have a discernible shape?,"['no', 'yes']",yes
+b5f5aa,a scarlet macaw perched on a branch in a rainforest,Is the bird perched on something?,"['no', 'yes']",yes
+b5f5aa,a scarlet macaw perched on a branch in a rainforest,Is the bird scarlet colored?,"['no', 'yes']",yes
+b5f5aa,a scarlet macaw perched on a branch in a rainforest,What kind of environment is depicted?,"['desert', 'mountain', 'rainforest', 'tundra']",rainforest
+b5f5aa,a scarlet macaw perched on a branch in a rainforest,Is the bird a parrot?,"['no', 'yes']",yes
+181849,a cobalt blue vase filled with peach blossoms,Are there flowers in the vase?,"['no', 'yes']",yes
+181849,a cobalt blue vase filled with peach blossoms,What color is the vase?,"['blue', 'green', 'orange', 'red']",blue
+181849,a cobalt blue vase filled with peach blossoms,What kind of flowers are shown?,"['daffodils', 'lilies', 'orchids', 'peach blossoms']",peach blossoms
+181849,a cobalt blue vase filled with peach blossoms,What color are the flowers?,"['blue', 'peach', 'red', 'yellow']",peach
+fc10b2,amber glass bottle with a cork stopper,Does the bottle have a stopper?,"['no', 'yes']",yes
+fc10b2,amber glass bottle with a cork stopper,Is the bottle made of glass?,"['no', 'yes']",yes
+fc10b2,amber glass bottle with a cork stopper,Is the bottle clear?,"['no', 'yes']",no
+fc10b2,amber glass bottle with a cork stopper,What material is the stopper made of?,"['aluminum', 'cork', 'plastic', 'rubber']",cork
+9375b6,a tan teddy bear wearing a periwinkle bow tie,What color is the bow tie?,"['brown', 'periwinkle', 'red', 'yellow']",periwinkle
+9375b6,a tan teddy bear wearing a periwinkle bow tie,Is the teddy bear wearing clothing?,"['no', 'yes']",yes
+9375b6,a tan teddy bear wearing a periwinkle bow tie,What kind of toy is depicted?,"['action figure', 'doll', 'kite', 'teddy bear']",teddy bear
+9375b6,a tan teddy bear wearing a periwinkle bow tie,Is the bear golden colored?,"['no', 'yes']",no
+183909,a snow-capped mountain range at sunset,Is the mountain range covered in snow?,"['no', 'yes']",yes
+183909,a snow-capped mountain range at sunset,Is this image of mountains?,"['no', 'yes']",yes
+183909,a snow-capped mountain range at sunset,What time of day is this image set in?,"['dawn', 'day', 'dusk', 'night']",dusk
+183909,a snow-capped mountain range at sunset,Is this image depicting a snowy beach?,"['no', 'yes']",no
+8a3794,a rusty robot in a grassy field,What is the robot's apparent condition?,"['clean', 'new', 'rusty', 'shiny']",rusty
+8a3794,a rusty robot in a grassy field,What is the robot standing in?,"['desert', 'field', 'snow', 'water']",field
+8a3794,a rusty robot in a grassy field,Is the robot made of gold?,"['no', 'yes']",no
+8a3794,a rusty robot in a grassy field,Is the field sandy?,"['no', 'yes']",no
+d3f765,a lemon sailboat on a teal ocean,What color is the sailboat?,"['blue', 'green', 'lemon', 'red']",lemon
+d3f765,a lemon sailboat on a teal ocean,What color is the ocean?,"['azure', 'gray', 'teal', 'yellow']",teal
+d3f765,a lemon sailboat on a teal ocean,Is there an airplane in the image?,"['no', 'yes']",no
+d3f765,a lemon sailboat on a teal ocean,Is the boat sailing on a river?,"['no', 'yes']",no
+70c16e,fuchsia polka dots on a lime green wall,What color are the polka dots?,"['fuchsia', 'green', 'orange', 'yellow']",fuchsia
+70c16e,fuchsia polka dots on a lime green wall,What color is the wall?,"['blue', 'fuchsia', 'lime green', 'red']",lime green
+70c16e,fuchsia polka dots on a lime green wall,Are the polka dots arranged randomly?,"['no', 'yes']",no
+70c16e,fuchsia polka dots on a lime green wall,Is the wall made of wood?,"['no', 'yes']",no
+e2c860,a pale blue pickup truck in a muddy forest,What color is the truck?,"['black', 'blue', 'green', 'red']",blue
+e2c860,a pale blue pickup truck in a muddy forest,Where is the truck located?,"['beach', 'desert', 'forest', 'road']",forest
+e2c860,a pale blue pickup truck in a muddy forest,Is the forest dry?,"['no', 'yes']",no
+e2c860,a pale blue pickup truck in a muddy forest,Is the truck a sedan?,"['no', 'yes']",no
+ba55ed,a silver canoe on a cerulean river,What is the main mode of transport?,"['bicycle', 'canoe', 'car', 'train']",canoe
+ba55ed,a silver canoe on a cerulean river,What color is the canoe?,"['gold', 'silver', 'teal', 'white']",silver
+ba55ed,a silver canoe on a cerulean river,Is the river purple?,"['no', 'yes']",no
+ba55ed,a silver canoe on a cerulean river,Is the canoe made of wood?,"['no', 'yes']",no
+cc1ef4,tangerine zigzags on a gray background,What shape are the tangerine objects?,"['circles', 'squares', 'triangles', 'zigzags']",zigzags
+cc1ef4,tangerine zigzags on a gray background,What color is the background?,"['gray', 'orange', 'purple', 'white']",gray
+cc1ef4,tangerine zigzags on a gray background,Are there any tangerine objects?,"['no', 'yes']",yes
+cc1ef4,tangerine zigzags on a gray background,Is the background black?,"['no', 'yes']",no
+e45297,an amber castle on a cobalt hill,What is the castle made of?,"['amber', 'cobalt', 'gold', 'silver']",amber
+e45297,an amber castle on a cobalt hill,What color is the hill?,"['amber', 'cobalt', 'green', 'red']",cobalt
+e45297,an amber castle on a cobalt hill,Is the castle on a plain?,"['no', 'yes']",no
+e45297,an amber castle on a cobalt hill,Is the castle made of stone?,"['no', 'yes']",no
+7b5221,a beige sweater with crimson elbow patches,What color is the sweater?,"['beige', 'blue', 'green', 'red']",beige
+7b5221,a beige sweater with crimson elbow patches,What color are the elbow patches?,"['beige', 'crimson', 'gray', 'white']",crimson
+7b5221,a beige sweater with crimson elbow patches,Is the sweater sleeveless?,"['no', 'yes']",no
+7b5221,a beige sweater with crimson elbow patches,Is the sweater made of silk?,"['no', 'yes']",no
+46c178,a scarlet blimp over a turquoise sea,What color is the blimp?,"['blue', 'green', 'scarlet', 'white']",scarlet
+46c178,a scarlet blimp over a turquoise sea,What color is the sea?,"['blue', 'green', 'turquoise', 'white']",turquoise
+46c178,a scarlet blimp over a turquoise sea,Is the blimp under the water?,"['no', 'yes']",no
+46c178,a scarlet blimp over a turquoise sea,Is the blimp yellow?,"['no', 'yes']",no
+cabcd6,a tan armchair with violet cushions,What color is the armchair?,"['beige', 'brown', 'tan', 'white']",tan
+cabcd6,a tan armchair with violet cushions,What color are the cushions?,"['blue', 'green', 'violet', 'white']",violet
+cabcd6,a tan armchair with violet cushions,Is the armchair made of metal?,"['no', 'yes']",no
+cabcd6,a tan armchair with violet cushions,Is the armchair located outside?,"['no', 'yes']",no
+35e67a,a tan jacket with brown buttons,What color are the buttons?,"['blue', 'brown', 'gray', 'white']",brown
+35e67a,a tan jacket with brown buttons,What color is the jacket?,"['brown', 'tan', 'white', 'yellow']",tan
+35e67a,a tan jacket with brown buttons,Does the jacket have buttons?,"['no', 'yes']",yes
+35e67a,a tan jacket with brown buttons,Is the jacket made of denim?,"['no', 'yes']",no
+abf8ac,a silver ring with a ruby,What is the ring made of?,"['bronze', 'gold', 'silver', 'wood']",silver
+abf8ac,a silver ring with a ruby,Is there a ruby on the ring?,"['no', 'yes']",yes
+abf8ac,a silver ring with a ruby,What is the color of the stone on the ring?,"['blue', 'red', 'white', 'yellow']",red
+abf8ac,a silver ring with a ruby,Is the ring made of plastic?,"['no', 'yes']",no
+ce30f3,a blue sweater with a zipper,What color is the sweater?,"['blue', 'green', 'red', 'white']",blue
+ce30f3,a blue sweater with a zipper,Does the sweater have a zipper?,"['no', 'yes']",yes
+ce30f3,a blue sweater with a zipper,Is the sweater made of fur?,"['no', 'yes']",no
+ce30f3,a blue sweater with a zipper,Is the item a sweater?,"['no', 'yes']",yes
+c08daa,a maroon leather wallet,What material is the item?,"['canvas', 'cotton', 'leather', 'wool']",leather
+c08daa,a maroon leather wallet,What color is the wallet?,"['black', 'maroon', 'orange', 'yellow']",maroon
+c08daa,a maroon leather wallet,Is the wallet made of metal?,"['no', 'yes']",no
+c08daa,a maroon leather wallet,Is a wallet depicted?,"['no', 'yes']",yes
+abcd66,a white fleece blanket,Is a blanket depicted?,"['no', 'yes']",yes
+abcd66,a white fleece blanket,What material is the blanket?,"['cotton', 'fleece', 'linen', 'silk']",fleece
+abcd66,a white fleece blanket,Is the blanket black?,"['no', 'yes']",no
+abcd66,a white fleece blanket,What color is the blanket?,"['blue', 'gray', 'red', 'white']",white
+3712d4,a crimson and black rug,What are the colors of the rug?,"['black and white', 'crimson and black', 'red and yellow', 'white and blue']",crimson and black
+3712d4,a crimson and black rug,Is the item a pillow?,"['no', 'yes']",no
+3712d4,a crimson and black rug,Is the item a rug?,"['no', 'yes']",yes
+3712d4,a crimson and black rug,Is the rug made of cotton?,"['no', 'yes']",no
+ccf46e,a yellow cotton t-shirt,Is the shirt striped?,"['no', 'yes']",no
+ccf46e,a yellow cotton t-shirt,Is a t-shirt shown?,"['no', 'yes']",yes
+ccf46e,a yellow cotton t-shirt,What is the color of the t-shirt?,"['blue', 'green', 'red', 'yellow']",yellow
+ccf46e,a yellow cotton t-shirt,What material is the t-shirt made of?,"['cotton', 'leather', 'silk', 'wool']",cotton
+2375c4,a beige linen scarf,What material is the scarf made of?,"['cotton', 'linen', 'silk', 'wool']",linen
+2375c4,a beige linen scarf,Is the scarf silk?,"['no', 'yes']",no
+2375c4,a beige linen scarf,What color is the scarf?,"['beige', 'blue', 'green', 'red']",beige
+2375c4,a beige linen scarf,Is a scarf depicted?,"['no', 'yes']",yes
+80f6de,a bronze statue of a lion,What animal is depicted in the statue?,"['bear', 'lion', 'tiger', 'wolf']",lion
+80f6de,a bronze statue of a lion,Is the statue made of bronze?,"['no', 'yes']",yes
+80f6de,a bronze statue of a lion,Is the statue made of glass?,"['no', 'yes']",no
+80f6de,a bronze statue of a lion,What is the statue made of?,"['bronze', 'gold', 'silver', 'wood']",bronze
+3044bd,a chartreuse silk dress,What material is the dress made of?,"['cotton', 'linen', 'silk', 'wool']",silk
+3044bd,a chartreuse silk dress,Is the dress cotton?,"['no', 'yes']",no
+3044bd,a chartreuse silk dress,What color is the dress?,"['chartreuse', 'green', 'red', 'white']",chartreuse
+3044bd,a chartreuse silk dress,Is the item a dress?,"['no', 'yes']",yes
+040a2d,a sunny beach with palm trees,Is the beach sunny?,"['no', 'yes']",yes
+040a2d,a sunny beach with palm trees,Are there palm trees in the image?,"['no', 'yes']",yes
+040a2d,a sunny beach with palm trees,Is the scene set in a forest?,"['no', 'yes']",no
+040a2d,a sunny beach with palm trees,What kind of trees are present?,"['apple', 'oak', 'palm', 'pine']",palm
+7f13aa,a plate of waffles with blueberries and syrup,Are there waffles on the plate?,"['no', 'yes']",yes
+7f13aa,a plate of waffles with blueberries and syrup,Is there syrup on the waffles?,"['no', 'yes']",yes
+7f13aa,a plate of waffles with blueberries and syrup,Are there strawberries on the waffles?,"['no', 'yes']",no
+7f13aa,a plate of waffles with blueberries and syrup,What fruit is on the waffles?,"['blueberries', 'grapes', 'raspberries', 'strawberries']",blueberries
+e512e5,a fluffy white cat sleeping on a couch,Is the cat sleeping?,"['no', 'yes']",yes
+e512e5,a fluffy white cat sleeping on a couch,What color is the cat?,"['black', 'brown', 'orange', 'white']",white
+e512e5,a fluffy white cat sleeping on a couch,Is the cat standing?,"['no', 'yes']",no
+e512e5,a fluffy white cat sleeping on a couch,Where is the cat sleeping?,"['bed', 'chair', 'couch', 'floor']",couch
+4cbf6f,a large brown bear standing in a river,Is the bear standing in the river?,"['no', 'yes']",yes
+4cbf6f,a large brown bear standing in a river,What color is the bear?,"['black', 'brown', 'gray', 'white']",brown
+4cbf6f,a large brown bear standing in a river,Is the bear swimming?,"['no', 'yes']",no
+4cbf6f,a large brown bear standing in a river,What animal is depicted?,"['bear', 'cat', 'dog', 'wolf']",bear
+0ac5e0,a red car parked on a city street,Is the car red?,"['no', 'yes']",yes
+0ac5e0,a red car parked on a city street,Is the car moving?,"['no', 'yes']",no
+0ac5e0,a red car parked on a city street,Is the street a country road?,"['no', 'yes']",no
+0ac5e0,a red car parked on a city street,Where is the car parked?,"['beach', 'garage', 'street', 'yard']",street
+2f13d5,a vase of sunflowers on a wooden table,Are the flowers roses?,"['no', 'yes']",no
+2f13d5,a vase of sunflowers on a wooden table,Are the flowers sunflowers?,"['no', 'yes']",yes
+2f13d5,a vase of sunflowers on a wooden table,Is the table made of metal?,"['no', 'yes']",no
+2f13d5,a vase of sunflowers on a wooden table,What kind of flowers are in the vase?,"['daisies', 'lilies', 'roses', 'sunflowers']",sunflowers
+6e043e,a bowl of green salad with tomatoes and cucumbers,Is the salad green?,"['no', 'yes']",yes
+6e043e,a bowl of green salad with tomatoes and cucumbers,Are there tomatoes in the salad?,"['no', 'yes']",yes
+6e043e,a bowl of green salad with tomatoes and cucumbers,Is there meat in the salad?,"['no', 'yes']",no
+6e043e,a bowl of green salad with tomatoes and cucumbers,What vegetables are in the salad?,"['carrots and peas', 'onions and peppers', 'tomatoes and cucumbers', 'turnips and beans']",tomatoes and cucumbers
+6a5b57,a blue and yellow kite flying in the sky,Is the kite flying?,"['no', 'yes']",yes
+6a5b57,a blue and yellow kite flying in the sky,What colors are the kite?,"['black and white', 'blue and yellow', 'red and green', 'silver and gold']",blue and yellow
+6a5b57,a blue and yellow kite flying in the sky,Is the kite on the ground?,"['no', 'yes']",no
+6a5b57,a blue and yellow kite flying in the sky,What is flying in the sky?,"['airplane', 'balloon', 'kite', 'rocket']",kite
+08ae2a,a stack of pancakes with strawberries and whipped cream,Are there pancakes in the image?,"['no', 'yes']",yes
+08ae2a,a stack of pancakes with strawberries and whipped cream,Is there whipped cream on the pancakes?,"['no', 'yes']",yes
+08ae2a,a stack of pancakes with strawberries and whipped cream,Are there blueberries on the pancakes?,"['no', 'yes']",no
+08ae2a,a stack of pancakes with strawberries and whipped cream,What topping is on the pancakes?,"['blueberries', 'chocolate chips', 'strawberries', 'syrup']",strawberries
+97e3c6,a glass of lemonade with ice cubes and a lemon slice,Is there ice in the lemonade?,"['no', 'yes']",yes
+97e3c6,a glass of lemonade with ice cubes and a lemon slice,Is there a lemon slice?,"['no', 'yes']",yes
+97e3c6,a glass of lemonade with ice cubes and a lemon slice,Is there tea in the glass?,"['no', 'yes']",no
+97e3c6,a glass of lemonade with ice cubes and a lemon slice,What drink is in the glass?,"['coke', 'juice', 'lemonade', 'water']",lemonade
+aedc4e,a silver sphere in a lavender room,Is the sphere silver?,"['no', 'yes']",yes
+aedc4e,a silver sphere in a lavender room,What color is the room?,"['green', 'lavender', 'orange', 'red']",lavender
+aedc4e,a silver sphere in a lavender room,Is the room blue?,"['no', 'yes']",no
+aedc4e,a silver sphere in a lavender room,What shape is the silver object?,"['cone', 'cube', 'sphere', 'triangle']",sphere
+3567e4,fuchsia polka dots on an orange background,What is the background color?,"['blue', 'fuchsia', 'orange', 'white']",orange
+3567e4,fuchsia polka dots on an orange background,Are the polka dots fuchsia?,"['no', 'yes']",yes
+3567e4,fuchsia polka dots on an orange background,Are the dots stripes?,"['no', 'yes']",no
+3567e4,fuchsia polka dots on an orange background,What pattern is prominent in the image?,"['checkered', 'dotted', 'striped', 'swirled']",dotted
+b5207f,a golden retriever in a field of barley,What kind of animal is in the image?,"['cat', 'dog', 'lion', 'tiger']",dog
+b5207f,a golden retriever in a field of barley,What color is the dog?,"['black', 'brown', 'golden', 'white']",golden
+b5207f,a golden retriever in a field of barley,Is the field made of wheat?,"['no', 'yes']",no
+b5207f,a golden retriever in a field of barley,Is the dog in a field?,"['no', 'yes']",yes
+eff34c,azure spiral staircase,Is the staircase spiral-shaped?,"['no', 'yes']",yes
+eff34c,azure spiral staircase,What color is the staircase?,"['azure', 'brown', 'grey', 'white']",azure
+eff34c,azure spiral staircase,Is the staircase made of wood?,"['no', 'yes']",no
+eff34c,azure spiral staircase,Is the staircase straight?,"['no', 'yes']",no
+3551f1,a swan on a turquoise lake,What type of bird is shown?,"['duck', 'eagle', 'swan', 'vulture']",swan
+3551f1,a swan on a turquoise lake,What color is the lake?,"['blue', 'green', 'turquoise', 'white']",turquoise
+3551f1,a swan on a turquoise lake,Is the swan on land?,"['no', 'yes']",no
+3551f1,a swan on a turquoise lake,Is the lake red?,"['no', 'yes']",no
+ef3bbf,a crimson sunset over the ocean,What is setting in the image?,"['moon', 'sun', 'stars', 'wind']",sun
+ef3bbf,a crimson sunset over the ocean,What color is the sunset?,"['crimson', 'grey', 'orange', 'white']",crimson
+ef3bbf,a crimson sunset over the ocean,Is there a body of water in the image?,"['no', 'yes']",yes
+ef3bbf,a crimson sunset over the ocean,Is the sunset turquoise?,"['no', 'yes']",no
+b1787f,an olive armchair with silver legs,What color is the armchair?,"['grey', 'olive', 'orange', 'white']",olive
+b1787f,an olive armchair with silver legs,What color are the legs?,"['gold', 'silver', 'tan', 'white']",silver
+b1787f,an olive armchair with silver legs,Is the armchair made of glass?,"['no', 'yes']",no
+b1787f,an olive armchair with silver legs,Is this a picture of an armchair?,"['no', 'yes']",yes
+ab8b32,a tan leather backpack,Is the backpack made out of leather?,"['no', 'yes']",yes
+ab8b32,a tan leather backpack,What color is the backpack?,"['black', 'blue', 'green', 'tan']",tan
+ab8b32,a tan leather backpack,Is the backpack made out of canvas?,"['no', 'yes']",no
+ab8b32,a tan leather backpack,Is the item clothing?,"['no', 'yes']",no
+519d19,a chartreuse bicycle,What color is the bicycle?,"['chartreuse', 'fuchsia', 'grey', 'white']",chartreuse
+519d19,a chartreuse bicycle,Is the bicycle motorized?,"['no', 'yes']",no
+519d19,a chartreuse bicycle,Is the bicycle brown?,"['no', 'yes']",no
+519d19,a chartreuse bicycle,What mode of transport is depicted?,"['airplane', 'bicycle', 'car', 'train']",bicycle
+c03ca9,a sepia photograph of a mountain range,Is the image a colored photograph?,"['no', 'yes']",no
+c03ca9,a sepia photograph of a mountain range,What is the photograph an image of?,"['beach', 'forest', 'mountain range', 'town']",mountain range
+c03ca9,a sepia photograph of a mountain range,Is the image depicting a valley?,"['no', 'yes']",no
+c03ca9,a sepia photograph of a mountain range,Is the photograph sepia toned?,"['no', 'yes']",yes
+6b6185,a turquoise sphere hovering over a beige cube,Is there a sphere in the image?,"['no', 'yes']",yes
+6b6185,a turquoise sphere hovering over a beige cube,What color is the sphere?,"['beige', 'turquoise']",turquoise
+6b6185,a turquoise sphere hovering over a beige cube,Is the cube above the sphere?,"['no', 'yes']",no
+6b6185,a turquoise sphere hovering over a beige cube,What shape is the beige object?,"['cube', 'cylinder', 'pyramid', 'sphere']",cube
+4fa2d8,fuchsia stars on a chartreuse background,What color is the background?,"['fuchsia', 'chartreuse']",chartreuse
+4fa2d8,fuchsia stars on a chartreuse background,What shape is on the background?,"['circle', 'square', 'star', 'triangle']",star
+4fa2d8,fuchsia stars on a chartreuse background,Is there a star present?,"['no', 'yes']",yes
+4fa2d8,fuchsia stars on a chartreuse background,Is the primary color fuchsia?,"['no', 'yes']",yes
+98f0a6,a scarlet boat sailing on a navy blue sea,What color is the sea?,"['navy blue', 'scarlet']",navy blue
+98f0a6,a scarlet boat sailing on a navy blue sea,What is sailing on the sea?,"['boat', 'car', 'plane', 'train']",boat
+98f0a6,a scarlet boat sailing on a navy blue sea,Is the boat blue?,"['no', 'yes']",no
+98f0a6,a scarlet boat sailing on a navy blue sea,Is the setting near water?,"['no', 'yes']",yes
+d5d1b8,a amber crescent moon in a lavender sky,What color is the moon?,"['amber', 'lavender']",amber
+d5d1b8,a amber crescent moon in a lavender sky,What shape is the moon?,"['circle', 'crescent', 'square', 'triangle']",crescent
+d5d1b8,a amber crescent moon in a lavender sky,Is the sky blue?,"['no', 'yes']",no
+d5d1b8,a amber crescent moon in a lavender sky,What is in the sky?,"['plane', 'moon', 'star', 'sun']",moon
+fcb4d9,a lime green bicycle leaning against a tan brick wall,What color is the bicycle?,"['blue', 'green', 'red', 'tan']",green
+fcb4d9,a lime green bicycle leaning against a tan brick wall,What is the bicycle leaning against?,"['fence', 'tree', 'wall', 'window']",wall
+fcb4d9,a lime green bicycle leaning against a tan brick wall,Is the wall made of bricks?,"['no', 'yes']",yes
+fcb4d9,a lime green bicycle leaning against a tan brick wall,Is the bicycle leaning against a glass window?,"['no', 'yes']",no
+84a2d9,a teal race car on a sandy beach,What color is the car?,"['sand', 'teal']",teal
+84a2d9,a teal race car on a sandy beach,Where is the car located?,"['beach', 'forest', 'mountain', 'road']",beach
+84a2d9,a teal race car on a sandy beach,Is the beach sandy?,"['no', 'yes']",yes
+84a2d9,a teal race car on a sandy beach,Is the car driving on water?,"['no', 'yes']",no
+163b1b,a silver robot in a magenta room,What color is the robot?,"['magenta', 'silver']",silver
+163b1b,a silver robot in a magenta room,What is in the room?,"['animal', 'plant', 'robot', 'statue']",robot
+163b1b,a silver robot in a magenta room,Is the room blue?,"['no', 'yes']",no
+163b1b,a silver robot in a magenta room,What color is the room?,"['magenta', 'orange', 'purple', 'white']",magenta
+a46814,golden retriever sitting in a cornflower blue chair,What kind of animal is sitting in the chair?,"['cat', 'dog', 'horse', 'lion']",dog
+a46814,golden retriever sitting in a cornflower blue chair,What color is the chair?,"['blue', 'gold']",blue
+a46814,golden retriever sitting in a cornflower blue chair,Is the chair made of metal?,"['no', 'yes']",no
+a46814,golden retriever sitting in a cornflower blue chair,Is a golden retriever depicted?,"['no', 'yes']",yes
+a16b89,a tan ceramic vase with dandelion yellow flowers,What color are the flowers?,"['yellow', 'tan']",yellow
+a16b89,a tan ceramic vase with dandelion yellow flowers,What is holding the flowers?,"['cup', 'table', 'vase', 'window']",vase
+a16b89,a tan ceramic vase with dandelion yellow flowers,Is the vase glass?,"['no', 'yes']",no
+a16b89,a tan ceramic vase with dandelion yellow flowers,Is the vase ceramic?,"['no', 'yes']",yes
+de4e7d,a lavender dress with periwinkle polka dots,What pattern is on the dress?,"['checkered', 'floral', 'polka dots', 'striped']",polka dots
+de4e7d,a lavender dress with periwinkle polka dots,What item of clothing is shown?,"['dress', 'pants', 'shirt', 'skirt']",dress
+de4e7d,a lavender dress with periwinkle polka dots,Is the dress green?,"['no', 'yes']",no
+de4e7d,a lavender dress with periwinkle polka dots,What is the color of the dress?,"['lavender', 'lime', 'periwinkle', 'scarlet']",lavender
+79d84b,a clockwork castle under a starry sky,Is the sky filled with stars?,"['no', 'yes']",yes
+79d84b,a clockwork castle under a starry sky,What is the castle made of?,"['brick', 'clockwork', 'ice', 'wood']",clockwork
+79d84b,a clockwork castle under a starry sky,Is the castle floating?,"['no', 'yes']",no
+79d84b,a clockwork castle under a starry sky,What is above the castle?,"['clouds', 'ocean', 'roof', 'sky']",sky
+845871,a rusty robot wearing a blue bandana,Is the robot new?,"['no', 'yes']",no
+845871,a rusty robot wearing a blue bandana,What color is the bandana?,"['blue', 'green', 'red', 'yellow']",blue
+845871,a rusty robot wearing a blue bandana,Is the robot wearing a hat?,"['no', 'yes']",no
+845871,a rusty robot wearing a blue bandana,What kind of headwear is the robot wearing?,"['bandana', 'beanie', 'crown', 'helmet']",bandana
+1a6654,an emerald sphere hovering over a lavender field,What color is the sphere?,"['emerald', 'gold', 'maroon', 'silver']",emerald
+1a6654,an emerald sphere hovering over a lavender field,What is below the sphere?,"['desert', 'field', 'ocean', 'sky']",field
+1a6654,an emerald sphere hovering over a lavender field,Is the sphere resting on the ground?,"['no', 'yes']",no
+1a6654,an emerald sphere hovering over a lavender field,What color is the field?,"['blue', 'green', 'lavender', 'red']",lavender
+30c7f4,amber fluid pouring into a ruby glass,What color is the fluid?,"['amber', 'blue', 'clear', 'green']",amber
+30c7f4,amber fluid pouring into a ruby glass,What is the fluid pouring into?,"['bucket', 'glass', 'ocean', 'sink']",glass
+30c7f4,amber fluid pouring into a ruby glass,Is the glass empty?,"['no', 'yes']",no
+30c7f4,amber fluid pouring into a ruby glass,What color is the glass?,"['clear', 'orange', 'ruby', 'white']",ruby
+116f7c,a turquoise pendant inlaid with gold filigree,Is the pendant silver?,"['no', 'yes']",no
+116f7c,a turquoise pendant inlaid with gold filigree,Is the filigree gold colored?,"['no', 'yes']",yes
+116f7c,a turquoise pendant inlaid with gold filigree,What is the pendant made of?,"['bronze', 'gold', 'silver', 'turquoise']",turquoise
+116f7c,a turquoise pendant inlaid with gold filigree,What is the gold detail called?,"['beading', 'filigree', 'lace', 'tassels']",filigree
+a4457e,a scarlet moon rising over an ice-capped mountain,What is rising over the mountain?,"['comet', 'moon', 'sun', 'tower']",moon
+a4457e,a scarlet moon rising over an ice-capped mountain,What covers the mountain?,"['grass', 'ice', 'sand', 'trees']",ice
+a4457e,a scarlet moon rising over an ice-capped mountain,Is the moon blue?,"['no', 'yes']",no
+a4457e,a scarlet moon rising over an ice-capped mountain,What color is the moon?,"['green', 'purple', 'scarlet', 'white']",scarlet
+86d7d2,a sapphire beetle resting on a jade leaf,What color is the beetle?,"['amber', 'jade', 'ruby', 'sapphire']",sapphire
+86d7d2,a sapphire beetle resting on a jade leaf,What is the beetle resting on?,"['branch', 'flower', 'leaf', 'rock']",leaf
+86d7d2,a sapphire beetle resting on a jade leaf,Is the leaf gold?,"['no', 'yes']",no
+86d7d2,a sapphire beetle resting on a jade leaf,What color is the leaf?,"['green', 'jade', 'purple', 'white']",jade
+6c5618,a silver yacht sailing on a cerulean sea,What color is the sea?,"['cerulean', 'green', 'red', 'white']",cerulean
+6c5618,a silver yacht sailing on a cerulean sea,What is sailing on the sea?,"['airplane', 'boat', 'submarine', 'yacht']",yacht
+6c5618,a silver yacht sailing on a cerulean sea,Is the yacht bronze?,"['no', 'yes']",no
+6c5618,a silver yacht sailing on a cerulean sea,What color is the yacht?,"['gold', 'orange', 'silver', 'white']",silver
+a49eed,a golden dragon perched on an obsidian spire,What is the dragon's color?,"['bronze', 'golden', 'silver', 'white']",golden
+a49eed,a golden dragon perched on an obsidian spire,What is the dragon perched on?,"['mountain', 'rock', 'sand', 'spire']",spire
+a49eed,a golden dragon perched on an obsidian spire,Is the spire silver?,"['no', 'yes']",no
+a49eed,a golden dragon perched on an obsidian spire,What material is the spire made of?,"['brick', 'ice', 'obsidian', 'wood']",obsidian
+c7a1db,a bronze statue in a verdant garden,What color is the statue?,"['bronze', 'gold', 'silver', 'white']",bronze
+c7a1db,a bronze statue in a verdant garden,What is the statue located in?,"['desert', 'forest', 'garden', 'ocean']",garden
+c7a1db,a bronze statue in a verdant garden,Is the garden barren?,"['no', 'yes']",no
+c7a1db,a bronze statue in a verdant garden,What describes the garden?,"['barren', 'dusty', 'lush', 'verdant']",verdant
+1b5189,a turquoise paisley pattern on ivory linen,Is the pattern floral?,"['no', 'yes']",yes
+1b5189,a turquoise paisley pattern on ivory linen,What color is the linen?,"['black', 'ivory', 'red', 'teal']",ivory
+1b5189,a turquoise paisley pattern on ivory linen,What is the main color of the pattern?,"['ivory', 'magenta', 'turquoise', 'white']",turquoise
+1b5189,a turquoise paisley pattern on ivory linen,What kind of pattern is depicted?,"['checkered', 'geometric', 'paisley', 'striped']",paisley
+d13221,amber spirals on a navy background,What is the color of the background?,"['amber', 'magenta', 'navy', 'white']",navy
+d13221,amber spirals on a navy background,Are there any spiral shapes?,"['no', 'yes']",yes
+d13221,amber spirals on a navy background,Are the spirals teal?,"['no', 'yes']",no
+d13221,amber spirals on a navy background,What shape is explicitly mentioned?,"['circle', 'spiral', 'square', 'triangle']",spiral
+d0d54e,a lime green lawn,What color is the lawn?,"['blue', 'gray', 'lime green', 'orange']",lime green
+d0d54e,a lime green lawn,Is the lawn blue?,"['no', 'yes']",no
+d0d54e,a lime green lawn,What is depicted?,"['a car', 'a house', 'a lawn', 'a tree']",a lawn
+d0d54e,a lime green lawn,Is the depicted subject a building?,"['no', 'yes']",no
+b48caa,fuchsia velvet gloves,What material are the gloves made of?,"['cotton', 'leather', 'silk', 'velvet']",velvet
+b48caa,fuchsia velvet gloves,Are the gloves made of silk?,"['no', 'yes']",no
+b48caa,fuchsia velvet gloves,What color are the gloves?,"['fuchsia', 'gold', 'red', 'silver']",fuchsia
+b48caa,fuchsia velvet gloves,Are the gloves fuzzy?,"['no', 'yes']",no
+fe4c97,a bronze bear statue,Is the statue's material bronze?,"['no', 'yes']",yes
+fe4c97,a bronze bear statue,Is the statue of a bear?,"['no', 'yes']",yes
+fe4c97,a bronze bear statue,Is the statue made of silver?,"['no', 'yes']",no
+fe4c97,a bronze bear statue,What animal is depicted as a statue?,"['bear', 'cat', 'dog', 'lion']",bear
+492016,red and gold brocade,Is the fabric shiny?,"['no', 'yes']",yes
+492016,red and gold brocade,What two colors are prominent?,"['black and white', 'blue and silver', 'red and gold', 'yellow and green']",red and gold
+492016,red and gold brocade,Is the fabric corduroy?,"['no', 'yes']",no
+492016,red and gold brocade,Is the fabric described as brocade?,"['no', 'yes']",yes
+3f0875,a pale blue ceramic plate,What material is the plate made of?,"['cardboard', 'ceramic', 'metal', 'wood']",ceramic
+3f0875,a pale blue ceramic plate,Is the plate red?,"['no', 'yes']",no
+3f0875,a pale blue ceramic plate,What color is the plate?,"['blue', 'green', 'red', 'white']",blue
+3f0875,a pale blue ceramic plate,Is the plate made of glass?,"['no', 'yes']",no
+085bd2,cerulean chiffon curtains,Are the curtains described as chiffon?,"['no', 'yes']",yes
+085bd2,cerulean chiffon curtains,What color are the curtains?,"['cerulean', 'green', 'red', 'white']",cerulean
+085bd2,cerulean chiffon curtains,Are the curtains linen?,"['no', 'yes']",no
+085bd2,cerulean chiffon curtains,What type of window covering is in the image?,"['blinds', 'curtains', 'shutters', 'valance']",curtains
+6dca27,chartreuse silk pillow,What is the item?,"['blanket', 'curtain', 'pillow', 'scarf']",pillow
+6dca27,chartreuse silk pillow,Is the pillow linen?,"['no', 'yes']",no
+6dca27,chartreuse silk pillow,What material is the pillow made from?,"['cotton', 'linen', 'silk', 'wool']",silk
+6dca27,chartreuse silk pillow,What color is the pillow?,"['chartreuse', 'fuchsia', 'maroon', 'teal']",chartreuse
+49c01e,orchid colored linen,Is the fabric silk?,"['no', 'yes']",no
+49c01e,orchid colored linen,Is the depicted item corduroy?,"['no', 'yes']",no
+49c01e,orchid colored linen,What color is the linen?,"['cerulean', 'khaki', 'orchid', 'silver']",orchid
+49c01e,orchid colored linen,What material is depicted?,"['chiffon', 'linen', 'velvet', 'wool']",linen
+fedd79,a turquoise orb surrounded by golden stars,Are there stars in the image?,"['no', 'yes']",yes
+fedd79,a turquoise orb surrounded by golden stars,What color is the orb?,"['gold', 'purple', 'turquoise', 'white']",turquoise
+fedd79,a turquoise orb surrounded by golden stars,What shape are the golden objects?,"['circles', 'crescents', 'squares', 'stars']",stars
+fedd79,a turquoise orb surrounded by golden stars,Is the orb black?,"['no', 'yes']",no
+c1648a,fuchsia spirals on a lime green background,What is the background color?,"['fuchsia', 'lime green', 'maroon', 'teal']",lime green
+c1648a,fuchsia spirals on a lime green background,Are the spirals fuchsia?,"['no', 'yes']",yes
+c1648a,fuchsia spirals on a lime green background,Are there any square shapes?,"['no', 'yes']",no
+c1648a,fuchsia spirals on a lime green background,What is the shape of the fuchsia elements?,"['circles', 'squares', 'spirals', 'triangles']",spirals
+7d1484,a silver chain on a black velvet surface,Is the surface made of velvet?,"['no', 'yes']",yes
+7d1484,a silver chain on a black velvet surface,Is the chain silver?,"['no', 'yes']",yes
+7d1484,a silver chain on a black velvet surface,What color is the velvet?,"['black', 'blue', 'green', 'red']",black
+7d1484,a silver chain on a black velvet surface,Is the chain made of gold?,"['no', 'yes']",no
+378fea,an olive drab jacket with brass buttons,What color are the buttons?,"['brass', 'gray', 'silver', 'white']",brass
+378fea,an olive drab jacket with brass buttons,What type of clothing is shown?,"['dress', 'jacket', 'pants', 'skirt']",jacket
+378fea,an olive drab jacket with brass buttons,Is there a belt on the jacket?,"['no', 'yes']",no
+378fea,an olive drab jacket with brass buttons,What color is the jacket?,"['blue', 'gray', 'olive drab', 'red']",olive drab
+bdf494,goldenrod polka dot scarf,What pattern is on the scarf?,"['checkered', 'floral', 'polka dot', 'striped']",polka dot
+bdf494,goldenrod polka dot scarf,What color is the scarf?,"['goldenrod', 'gray', 'red', 'white']",goldenrod
+bdf494,goldenrod polka dot scarf,Is the scarf made of denim?,"['no', 'yes']",no
+bdf494,goldenrod polka dot scarf,Is the item a scarf?,"['no', 'yes']",yes
+2c7145,a lavender field at sunset,Is the field colorful?,"['no', 'yes']",yes
+2c7145,a lavender field at sunset,What is the main color of the field?,"['blue', 'green', 'lavender', 'red']",lavender
+2c7145,a lavender field at sunset,What time of day is it?,"['dawn', 'dusk', 'midday', 'midnight']",dusk
+2c7145,a lavender field at sunset,What is mainly depicted in the image?,"['desert', 'field', 'forest', 'mountain']",field
+846b37,a chartreuse umbrella with a wooden handle,What is the handle made of?,"['aluminum', 'fabric', 'plastic', 'wood']",wood
+846b37,a chartreuse umbrella with a wooden handle,Is the umbrella chartreuse colored?,"['no', 'yes']",yes
+846b37,a chartreuse umbrella with a wooden handle,What is the item described?,"['coat', 'hat', 'scarf', 'umbrella']",umbrella
+846b37,a chartreuse umbrella with a wooden handle,Is the umbrella made of glass?,"['no', 'yes']",no
+c57af9,cerulean paisley bandana,What pattern does the bandana have?,"['checkered', 'paisley', 'polka dot', 'striped']",paisley
+c57af9,cerulean paisley bandana,Is the bandana cerulean colored?,"['no', 'yes']",yes
+c57af9,cerulean paisley bandana,Is the item a shirt?,"['no', 'yes']",no
+c57af9,cerulean paisley bandana,Is the item a dress?,"['no', 'yes']",no
+2947eb,a tan trench coat with tortoiseshell buttons,What kind of coat is it?,"['bomber', 'down', 'pea', 'trench']",trench
+2947eb,a tan trench coat with tortoiseshell buttons,What color are the buttons?,"['brass', 'gold', 'silver', 'tortoiseshell']",tortoiseshell
+2947eb,a tan trench coat with tortoiseshell buttons,What color is the coat?,"['black', 'gray', 'tan', 'white']",tan
+2947eb,a tan trench coat with tortoiseshell buttons,Is the coat made of leather?,"['no', 'yes']",no
+4b477d,a magenta rose on an emerald background,What color is the background?,"['emerald', 'fuchsia', 'magenta', 'rose']",emerald
+4b477d,a magenta rose on an emerald background,What is the primary item?,"['background', 'desk', 'rose', 'table']",rose
+4b477d,a magenta rose on an emerald background,What color is the rose?,"['blue', 'green', 'magenta', 'white']",magenta
+4b477d,a magenta rose on an emerald background,Is the rose pink?,"['no', 'yes']",yes
+f2b6cd,a serene turquoise pool reflecting the clear sky,Is the water in the pool crystal clear?,"['no', 'yes']",yes
+f2b6cd,a serene turquoise pool reflecting the clear sky,What color is the pool?,"['blue', 'gray', 'red', 'turquoise']",turquoise
+f2b6cd,a serene turquoise pool reflecting the clear sky,Is the sky reflecting in the pool?,"['no', 'yes']",yes
+f2b6cd,a serene turquoise pool reflecting the clear sky,Is the pool reflecting a mountain?,"['no', 'yes']",no
+558276,a scarlet poppy in a green field,What color is the poppy?,"['blue', 'green', 'scarlet', 'yellow']",scarlet
+558276,a scarlet poppy in a green field,Is the poppy in a field?,"['no', 'yes']",yes
+558276,a scarlet poppy in a green field,Is the field yellow?,"['no', 'yes']",no
+558276,a scarlet poppy in a green field,What color is the field?,"['green', 'red', 'white', 'yellow']",green
+ea40cf,a lavender field under a bright sun,What color is the field?,"['blue', 'green', 'lavender', 'yellow']",lavender
+ea40cf,a lavender field under a bright sun,Is the sun setting?,"['no', 'yes']",no
+ea40cf,a lavender field under a bright sun,Is the sun hidden by clouds?,"['no', 'yes']",no
+ea40cf,a lavender field under a bright sun,Is the sun bright?,"['no', 'yes']",yes
+e8af0a,dark teal windbreaker,What is the color of the windbreaker?,"['dark teal', 'gray', 'red', 'yellow']",dark teal
+e8af0a,dark teal windbreaker,Is the item a windbreaker?,"['no', 'yes']",yes
+e8af0a,dark teal windbreaker,Is the item a sweater?,"['no', 'yes']",no
+e8af0a,dark teal windbreaker,Is the item made of cotton?,"['no', 'yes']",no
+6f58ef,fuchsia scarf with white polka dots,What pattern is on the scarf?,"['checkered', 'floral', 'paisley', 'polka dots']",polka dots
+6f58ef,fuchsia scarf with white polka dots,What color is the scarf?,"['fuchsia', 'gray', 'red', 'yellow']",fuchsia
+6f58ef,fuchsia scarf with white polka dots,Is the scarf plain?,"['no', 'yes']",no
+6f58ef,fuchsia scarf with white polka dots,Is the scarf black?,"['no', 'yes']",no
+1d5170,a navy blue peacoat with gold buttons,What color are the buttons?,"['gold', 'gray', 'red', 'silver']",gold
+1d5170,a navy blue peacoat with gold buttons,What color is the peacoat?,"['blue', 'gray', 'red', 'yellow']",blue
+1d5170,a navy blue peacoat with gold buttons,Is the coat a trenchcoat?,"['no', 'yes']",no
+1d5170,a navy blue peacoat with gold buttons,Is the item a peacoat?,"['no', 'yes']",yes
+f87d97,chartreuse circles floating on an amber background,What shape is floating on the background?,"['circles', 'squares', 'triangles', 'wavy lines']",circles
+f87d97,chartreuse circles floating on an amber background,What color is the background?,"['amber', 'blue', 'green', 'white']",amber
+f87d97,chartreuse circles floating on an amber background,Are the circles intersecting?,"['no', 'yes']",no
+f87d97,chartreuse circles floating on an amber background,Is the background green?,"['no', 'yes']",no
+3eb697,a beige linen blazer,What is the blazer made of?,"['cotton', 'linen', 'silk', 'wool']",linen
+3eb697,a beige linen blazer,What color is the blazer?,"['beige', 'blue', 'red', 'yellow']",beige
+3eb697,a beige linen blazer,Is it a jacket?,"['no', 'yes']",yes
+3eb697,a beige linen blazer,Is the blazer black?,"['no', 'yes']",no
+658258,a silver bracelet with amethyst stones,What precious metal is the bracelet made of?,"['bronze', 'gold', 'silver', 'steel']",silver
+658258,a silver bracelet with amethyst stones,What kind of stones are set in the bracelet?,"['amethyst', 'diamond', 'emerald', 'ruby']",amethyst
+658258,a silver bracelet with amethyst stones,Is the bracelet leather?,"['no', 'yes']",no
+658258,a silver bracelet with amethyst stones,Is the bracelet made of silver?,"['no', 'yes']",yes
+ccc44a,a bronze sculpture of a geometric bird,Is the sculpture made of bronze?,"['no', 'yes']",yes
+ccc44a,a bronze sculpture of a geometric bird,What is the subject of the sculpture?,"['cat', 'dog', 'flower', 'bird']",bird
+ccc44a,a bronze sculpture of a geometric bird,Is the sculpture painted?,"['no', 'yes']",no
+ccc44a,a bronze sculpture of a geometric bird,Is the bird flying?,"['no', 'yes']",no
+b7d372,a turquoise sphere above a lavender cube,Is the cube lavender colored?,"['no', 'yes']",yes
+b7d372,a turquoise sphere above a lavender cube,What shape is turquoise?,"['cube', 'cylinder', 'sphere', 'triangle']",sphere
+b7d372,a turquoise sphere above a lavender cube,Is the sphere below the cube?,"['no', 'yes']",no
+b7d372,a turquoise sphere above a lavender cube,What color is the sphere?,"['green', 'lavender', 'turquoise', 'violet']",turquoise
+ab55b4,fuchsia stars on an emerald background,What color are the stars?,"['emerald', 'fuchsia', 'gold', 'silver']",fuchsia
+ab55b4,fuchsia stars on an emerald background,What is the background color?,"['emerald', 'fuchsia', 'gold', 'silver']",emerald
+ab55b4,fuchsia stars on an emerald background,What shape is shown on the background?,"['circles', 'squares', 'stars', 'triangles']",stars
+ab55b4,fuchsia stars on an emerald background,Are the stars on a background?,"['no', 'yes']",yes
+7bdf0b,a silver pentagon inside an olive octagon,What color is the pentagon?,"['olive', 'orange', 'purple', 'silver']",silver
+7bdf0b,a silver pentagon inside an olive octagon,What shape is olive colored?,"['hexagon', 'octagon', 'pentagon', 'square']",octagon
+7bdf0b,a silver pentagon inside an olive octagon,Is the pentagon outside the octagon?,"['no', 'yes']",no
+7bdf0b,a silver pentagon inside an olive octagon,Is there a silver pentagon shown?,"['no', 'yes']",yes
+b2b27e,a chartreuse crescent beside a tan square,Are the objects displayed next to each other?,"['no', 'yes']",yes
+b2b27e,a chartreuse crescent beside a tan square,What shape is chartreuse?,"['crescent', 'octagon', 'rectangle', 'triangle']",crescent
+b2b27e,a chartreuse crescent beside a tan square,What shape is tan colored?,"['circle', 'crescent', 'square', 'star']",square
+b2b27e,a chartreuse crescent beside a tan square,Is the square chartreuse?,"['no', 'yes']",no
+70b195,a scarlet spiral on a beige canvas,Is the spiral scarlet?,"['no', 'yes']",yes
+70b195,a scarlet spiral on a beige canvas,What is the spiral on?,"['beige canvas', 'blue paper', 'green wall', 'white cloth']",beige canvas
+70b195,a scarlet spiral on a beige canvas,Is the canvas green?,"['no', 'yes']",no
+70b195,a scarlet spiral on a beige canvas,What shape is scarlet?,"['circle', 'square', 'spiral', 'triangle']",spiral
+120de7,cerulean hexagons over a golden grid,Is the grid golden?,"['no', 'yes']",yes
+120de7,cerulean hexagons over a golden grid,Are the hexagons cerulean?,"['no', 'yes']",yes
+120de7,cerulean hexagons over a golden grid,What shape are the cerulean objects?,"['circles', 'hexagons', 'squares', 'triangles']",hexagons
+120de7,cerulean hexagons over a golden grid,Is the grid under the shapes?,"['no', 'yes']",no
+0eddb9,a lime pentagon above a violet diamond,What color is the pentagon?,"['lime', 'magenta', 'orange', 'violet']",lime
+0eddb9,a lime pentagon above a violet diamond,What is the shape of the violet object?,"['circle', 'diamond', 'square', 'triangle']",diamond
+0eddb9,a lime pentagon above a violet diamond,Is the diamond lime?,"['no', 'yes']",no
+0eddb9,a lime pentagon above a violet diamond,Is the pentagon on top?,"['no', 'yes']",yes
+3bed6b,a teal circle behind a white star,Is the star white?,"['no', 'yes']",yes
+3bed6b,a teal circle behind a white star,What shape is teal?,"['circle', 'square', 'star', 'triangle']",circle
+3bed6b,a teal circle behind a white star,Is the circle in front of the star?,"['no', 'yes']",no
+3bed6b,a teal circle behind a white star,What color is the circle?,"['black', 'red', 'teal', 'white']",teal
+12f0b5,a black rectangle near a silver oval,Is the oval silver?,"['no', 'yes']",yes
+12f0b5,a black rectangle near a silver oval,What shape is black?,"['circle', 'oval', 'rectangle', 'square']",rectangle
+12f0b5,a black rectangle near a silver oval,Are the shapes the same color?,"['no', 'yes']",no
+12f0b5,a black rectangle near a silver oval,Are the shapes near each other?,"['no', 'yes']",yes
+58e75d,a magenta sphere beside an ivory square,Are the shapes touching?,"['no', 'yes']",no
+58e75d,a magenta sphere beside an ivory square,What shape is magenta?,"['circle', 'square', 'sphere', 'triangle']",sphere
+58e75d,a magenta sphere beside an ivory square,What shape is ivory?,"['circle', 'rectangle', 'square', 'triangle']",square
+58e75d,a magenta sphere beside an ivory square,What color is the sphere?,"['ivory', 'magenta', 'red', 'white']",magenta
+b5d92f,a golden spiral staircase,What shape is the staircase?,"['circular', 'rectangular', 'spiral', 'straight']",spiral
+b5d92f,a golden spiral staircase,What is the color of the staircase?,"['blue', 'golden', 'gray', 'red']",golden
+b5d92f,a golden spiral staircase,Is the staircase ascending?,"['no', 'yes']",yes
+b5d92f,a golden spiral staircase,Is the staircase made of wood?,"['no', 'yes']",no
+aff2d1,a dark blue velvet armchair,What color is the armchair?,"['black', 'blue', 'green', 'red']",blue
+aff2d1,a dark blue velvet armchair,Is the material velvet?,"['no', 'yes']",yes
+aff2d1,a dark blue velvet armchair,Is the armchair made of plastic?,"['no', 'yes']",no
+aff2d1,a dark blue velvet armchair,What type of furniture is depicted?,"['bed', 'chair', 'desk', 'table']",chair
+a67097,a ruby pendant on a silver chain,What is the pendant made of?,"['diamond', 'emerald', 'ruby', 'sapphire']",ruby
+a67097,a ruby pendant on a silver chain,Is the chain golden?,"['no', 'yes']",no
+a67097,a ruby pendant on a silver chain,Is the pendant on a chain?,"['no', 'yes']",yes
+a67097,a ruby pendant on a silver chain,What is the chain made of?,"['gold', 'platinum', 'silver', 'steel']",silver
+f60554,a forest of silver birch trees in the fog,What kind of trees are in the forest?,"['birch', 'maple', 'oak', 'pine']",birch
+f60554,a forest of silver birch trees in the fog,Is there snow on the ground?,"['no', 'yes']",no
+f60554,a forest of silver birch trees in the fog,Is the forest foggy?,"['no', 'yes']",yes
+f60554,a forest of silver birch trees in the fog,What color are the trees described as?,"['golden', 'green', 'silver', 'white']",silver
+ec380f,an emerald pendant with a gold chain,What is the pendant's color?,"['blue', 'emerald', 'red', 'yellow']",emerald
+ec380f,an emerald pendant with a gold chain,What is the chain made of?,"['gold', 'plastic', 'silver', 'wood']",gold
+ec380f,an emerald pendant with a gold chain,Is the pendant square?,"['no', 'yes']",no
+ec380f,an emerald pendant with a gold chain,Is a necklace shown?,"['no', 'yes']",yes
+0a26ab,fuchsia circles on a navy background,What color are the circles?,"['fuchsia', 'gray', 'navy', 'red']",fuchsia
+0a26ab,fuchsia circles on a navy background,What is the background color?,"['black', 'fuchsia', 'gray', 'navy']",navy
+0a26ab,fuchsia circles on a navy background,What shape is primarily featured?,"['crescent', 'rectangle', 'square', 'circle']",circle
+0a26ab,fuchsia circles on a navy background,Is the background white?,"['no', 'yes']",no
+affa97,a scarlet macaw perched on a branch,What kind of bird is shown?,"['canary', 'macaw', 'parrot', 'sparrow']",macaw
+affa97,a scarlet macaw perched on a branch,What color is the macaw?,"['black', 'green', 'scarlet', 'white']",scarlet
+affa97,a scarlet macaw perched on a branch,Is the macaw flying?,"['no', 'yes']",no
+affa97,a scarlet macaw perched on a branch,Is the bird standing on the ground?,"['no', 'yes']",no
+dac598,a cyan octagon inside a magenta hexagon,What color is the octagon?,"['cyan', 'green', 'magenta', 'orange']",cyan
+dac598,a cyan octagon inside a magenta hexagon,What shape is the inner shape?,"['hexagon', 'octagon', 'pentagon', 'square']",octagon
+dac598,a cyan octagon inside a magenta hexagon,What color is the hexagon?,"['blue', 'cyan', 'magenta', 'red']",magenta
+dac598,a cyan octagon inside a magenta hexagon,Is the hexagon inside the octagon?,"['no', 'yes']",no
+45017f,a chartreuse cube and a lavender sphere,Is one of the shapes lavender?,"['no', 'yes']",yes
+45017f,a chartreuse cube and a lavender sphere,What shape is chartreuse?,"['circle', 'cube', 'rectangle', 'sphere']",cube
+45017f,a chartreuse cube and a lavender sphere,Is there a sphere present?,"['no', 'yes']",yes
+45017f,a chartreuse cube and a lavender sphere,Is one of the shapes blue?,"['no', 'yes']",no
+067f5c,a lemon yellow jacket with black buttons,What color are the buttons?,"['black', 'blue', 'red', 'yellow']",black
+067f5c,a lemon yellow jacket with black buttons,What color is the jacket?,"['black', 'blue', 'yellow', 'white']",yellow
+067f5c,a lemon yellow jacket with black buttons,Is the jacket blue?,"['no', 'yes']",no
+067f5c,a lemon yellow jacket with black buttons,Is the item of clothing a jacket?,"['no', 'yes']",yes
+23f7f8,a rusty metal robot holding a flower,What object is the robot holding?,"['book', 'flower', 'sword', 'toy']",flower
+23f7f8,a rusty metal robot holding a flower,What material is the robot made of?,"['cardboard', 'plastic', 'rubber', 'metal']",metal
+23f7f8,a rusty metal robot holding a flower,Is the robot new and shiny?,"['no', 'yes']",no
+23f7f8,a rusty metal robot holding a flower,What is the robot's condition?,"['broken', 'new', 'rusty', 'shiny']",rusty
+53f7c1,a beige linen shirt with wooden buttons,Are the buttons made of metal?,"['no', 'yes']",no
+53f7c1,a beige linen shirt with wooden buttons,What material is the shirt made of?,"['cotton', 'denim', 'linen', 'silk']",linen
+53f7c1,a beige linen shirt with wooden buttons,What color is the shirt?,"['beige', 'blue', 'green', 'red']",beige
+53f7c1,a beige linen shirt with wooden buttons,What are the buttons made of?,"['acrylic', 'glass', 'metal', 'wood']",wood
+404b06,chartreuse polka dots on a navy background,Is the background light blue?,"['no', 'yes']",no
+404b06,chartreuse polka dots on a navy background,What is the background color?,"['navy', 'orange', 'pink', 'white']",navy
+404b06,chartreuse polka dots on a navy background,Are the dots chartreuse?,"['no', 'yes']",yes
+404b06,chartreuse polka dots on a navy background,Are there polka dots present?,"['no', 'yes']",yes
+fb965f,a lavender field under a bright sun,Is the sun dim?,"['no', 'yes']",no
+fb965f,a lavender field under a bright sun,What kind of field is depicted?,"['corn', 'lavender', 'rice', 'wheat']",lavender
+fb965f,a lavender field under a bright sun,Is the field purple?,"['no', 'yes']",yes
+fb965f,a lavender field under a bright sun,Is the sun hidden by clouds?,"['no', 'yes']",no
+337972,fuchsia feathers scattered on a marble surface,Is the surface made of wood?,"['no', 'yes']",no
+337972,fuchsia feathers scattered on a marble surface,Are the feathers scattered?,"['no', 'yes']",yes
+337972,fuchsia feathers scattered on a marble surface,What is scattered on the surface?,"['coins', 'feathers', 'leaves', 'petals']",feathers
+337972,fuchsia feathers scattered on a marble surface,What color are the feathers?,"['fuchsia', 'gold', 'silver', 'teal']",fuchsia
+44bf28,a bronze statue of a warrior,Is the statue colored silver?,"['no', 'yes']",no
+44bf28,a bronze statue of a warrior,Is the statue made of bronze?,"['no', 'yes']",yes
+44bf28,a bronze statue of a warrior,Is the statue of a cook?,"['no', 'yes']",no
+44bf28,a bronze statue of a warrior,What does the statue depict?,"['chef', 'dancer', 'king', 'warrior']",warrior
+968d70,a turquoise sea turtle swimming in a coral reef,Is the sea turtle green?,"['no', 'yes']",yes
+968d70,a turquoise sea turtle swimming in a coral reef,Is the setting a desert?,"['no', 'yes']",no
+968d70,a turquoise sea turtle swimming in a coral reef,Is the turtle swimming in a coral reef?,"['no', 'yes']",yes
+968d70,a turquoise sea turtle swimming in a coral reef,What animal is depicted?,"['dolphin', 'jellyfish', 'shark', 'turtle']",turtle
+8cec94,amber beads strung on a silver chain,Are the beads silver?,"['no', 'yes']",no
+8cec94,amber beads strung on a silver chain,What are the beads strung on?,"['elastic', 'leather', 'ribbon', 'chain']",chain
+8cec94,amber beads strung on a silver chain,Is the chain silver?,"['no', 'yes']",yes
+8cec94,amber beads strung on a silver chain,What color are the beads?,"['amber', 'blue', 'gold', 'red']",amber
+e2ea57,a scarlet sunset over an active volcano,Is the volcano dormant?,"['no', 'yes']",no
+e2ea57,a scarlet sunset over an active volcano,What type of natural phenomenon is displayed?,"['sunrise', 'sunset', 'tornado', 'waterfall']",sunset
+e2ea57,a scarlet sunset over an active volcano,Is the sunset scarlet?,"['no', 'yes']",yes
+e2ea57,a scarlet sunset over an active volcano,Is the volcano erupting?,"['no', 'yes']",yes
+17c956,a sapphire pendant on a gold necklace,Is the pendant gold?,"['no', 'yes']",no
+17c956,a sapphire pendant on a gold necklace,What is the pendant made of?,"['diamond', 'emerald', 'ruby', 'sapphire']",sapphire
+17c956,a sapphire pendant on a gold necklace,Is the necklace platinum?,"['no', 'yes']",no
+17c956,a sapphire pendant on a gold necklace,What is the necklace made of?,"['bronze', 'gold', 'silver', 'steel']",gold
+e5119b,a serene koi pond at sunrise,What time of day is depicted?,"['dawn', 'dusk', 'midday', 'night']",dawn
+e5119b,a serene koi pond at sunrise,Is the water turbulent?,"['no', 'yes']",no
+e5119b,a serene koi pond at sunrise,Is there a body of water in the image?,"['no', 'yes']",yes
+e5119b,a serene koi pond at sunrise,What animal is featured in the image?,"['cat', 'dog', 'koi', 'turtle']",koi
+362062,a minimalist white ceramic vase,What color is the vase?,"['blue', 'green', 'white', 'yellow']",white
+362062,a minimalist white ceramic vase,Is the vase made of glass?,"['no', 'yes']",no
+362062,a minimalist white ceramic vase,What material is the vase made of?,"['ceramic', 'cotton', 'metal', 'wood']",ceramic
+362062,a minimalist white ceramic vase,Is the vase ornate?,"['no', 'yes']",no
+93e085,a dilapidated wooden shed in a field of sunflowers,Are there sunflowers in the image?,"['no', 'yes']",yes
+93e085,a dilapidated wooden shed in a field of sunflowers,Is the shed in good repair?,"['no', 'yes']",no
+93e085,a dilapidated wooden shed in a field of sunflowers,What kind of building is depicted?,"['barn', 'house', 'shed', 'store']",shed
+93e085,a dilapidated wooden shed in a field of sunflowers,Is the field covered in snow?,"['no', 'yes']",no
+1f4a09,fuchsia and gold brocade jacket,Is the jacket made of denim?,"['no', 'yes']",no
+1f4a09,fuchsia and gold brocade jacket,What color is the jacket?,"['fuchsia', 'gray', 'red', 'white']",fuchsia
+1f4a09,fuchsia and gold brocade jacket,Is the jacket brocade?,"['no', 'yes']",yes
+1f4a09,fuchsia and gold brocade jacket,Is the jacket made of cotton?,"['no', 'yes']",no
+d8ee59,lime green and navy blue argyle socks,Are the socks striped?,"['no', 'yes']",no
+d8ee59,lime green and navy blue argyle socks,Are the socks argyle?,"['no', 'yes']",yes
+d8ee59,lime green and navy blue argyle socks,What colors are the socks?,"['gray and white', 'lime green and navy blue', 'red and blue', 'yellow and green']",lime green and navy blue
+d8ee59,lime green and navy blue argyle socks,Is the clothing item a pair of socks?,"['no', 'yes']",yes
+c7a9a4,"a rusty, abandoned car in a desert",Is the car new?,"['no', 'yes']",no
+c7a9a4,"a rusty, abandoned car in a desert",Is the car in a desert?,"['no', 'yes']",yes
+c7a9a4,"a rusty, abandoned car in a desert",Is the car rusty?,"['no', 'yes']",yes
+c7a9a4,"a rusty, abandoned car in a desert",Is the setting a forest?,"['no', 'yes']",no
+3b075f,a crystal geode filled with amethyst,What fills the geode?,"['amethyst', 'diamonds', 'emeralds', 'rubies']",amethyst
+3b075f,a crystal geode filled with amethyst,Is the geode empty?,"['no', 'yes']",no
+3b075f,a crystal geode filled with amethyst,Is the object a geode?,"['no', 'yes']",yes
+3b075f,a crystal geode filled with amethyst,Is the geode made of metal?,"['no', 'yes']",no
+739380,an emerald velvet loveseat,Is the loveseat made of cotton?,"['no', 'yes']",no
+739380,an emerald velvet loveseat,Is the loveseat velvet?,"['no', 'yes']",yes
+739380,an emerald velvet loveseat,What color is the loveseat?,"['emerald', 'gray', 'red', 'white']",emerald
+739380,an emerald velvet loveseat,Is the item a loveseat?,"['no', 'yes']",yes
+4786ee,a scarlet macaw perched on a branch,Is the macaw blue?,"['no', 'yes']",no
+4786ee,a scarlet macaw perched on a branch,Is the macaw scarlet?,"['no', 'yes']",yes
+4786ee,a scarlet macaw perched on a branch,What type of bird is in the image?,"['eagle', 'macaw', 'pigeon', 'sparrow']",macaw
+4786ee,a scarlet macaw perched on a branch,Is the macaw flying?,"['no', 'yes']",no
+d09118,a cobalt blue glass bottle,What color is the bottle?,"['blue', 'green', 'red', 'yellow']",blue
+d09118,a cobalt blue glass bottle,Is the bottle made of glass?,"['no', 'yes']",yes
+d09118,a cobalt blue glass bottle,Is the bottle empty?,"['no', 'yes']",no
+d09118,a cobalt blue glass bottle,What color is the glass?,"['cobalt blue', 'emerald green', 'ruby red', 'sky blue']",cobalt blue
